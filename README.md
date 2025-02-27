@@ -1,4 +1,4 @@
-<p align="center"><a href="https://haventwined.com" target="_blank"><img src="https://haventwined.com/logo.svg" width="400" alt="Haventwined Logo"></a></p>
+<p align="center"><a href="https://haventwined.com" target="_blank"><img src="/public/assets/logo-haven.png" width="400" alt="Haventwined Logo"></a></p>
 
 ## About Haventwined
 
